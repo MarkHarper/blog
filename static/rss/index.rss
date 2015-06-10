@@ -1,0 +1,258 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>Code School Survival</title><description>Thoughts, tips and my experience going through a programming bootcamp.</description><link>http://localhost:2368/</link><generator>Ghost 0.6</generator><lastBuildDate>Wed, 10 Jun 2015 02:30:28 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>Week Five Recap</title><description>&lt;p&gt;One more week down at TIY and our workflow has changed so much in only seven days. Here is a quick rundown of the tools we added to our arsenal this week:&lt;/p&gt;
+
+&lt;ul&gt;  
+&lt;li&gt;&lt;a href="http://backbonejs.org/"&gt;Backbone Js&lt;/a&gt;So far we have mostly used the routing function&lt;/li&gt;  
+&lt;li&gt;&lt;a href="http://gulpjs.com/"&gt;Gulp Js&lt;/a&gt; - a streaming build system&lt;/li&gt;&lt;/ul&gt;</description><link>http://localhost:2368/week-three-recap/</link><guid isPermaLink="false">a996c460-ee49-4029-9b87-db1847f8a833</guid><dc:creator>Mark Harper</dc:creator><pubDate>Wed, 10 Jun 2015 02:28:14 GMT</pubDate><content:encoded>&lt;p&gt;One more week down at TIY and our workflow has changed so much in only seven days. Here is a quick rundown of the tools we added to our arsenal this week:&lt;/p&gt;
+
+&lt;ul&gt;  
+&lt;li&gt;&lt;a href="http://backbonejs.org/"&gt;Backbone Js&lt;/a&gt;So far we have mostly used the routing function&lt;/li&gt;  
+&lt;li&gt;&lt;a href="http://gulpjs.com/"&gt;Gulp Js&lt;/a&gt; - a streaming build system that really speeds up the development process.&lt;/li&gt;  
+&lt;li&gt;&lt;a href="https://code.visualstudio.com/"&gt;Visual Studio Code&lt;/a&gt; - I know. It's just a code editor, but any code editor that offers git commands in the UI is worth checking out.&lt;/li&gt;  
+&lt;li&gt;&lt;a href="http://sass-lang.com/"&gt;SASS/SCSS&lt;/a&gt; - Syntactically awesome style sheets!! Gotta love variables and ways to group CSS settings.&lt;/li&gt;  
+&lt;li&gt;&lt;strong&gt;CSS Frameworks&lt;/strong&gt; - We had an overview of several options, but a live demo of Twitter's Bootstrap. Here are a few.  
+&lt;ul&gt;  
+&lt;li&gt;&lt;a href="http://getbootstrap.com/"&gt;Bootstrap&lt;/a&gt;&lt;/li&gt;  
+&lt;li&gt;&lt;a href="http://bourbon.io/"&gt;Bourbon&lt;/a&gt; - Even without considering the name, it seemed like the most interesting choice to me.&lt;/li&gt;  
+&lt;li&gt;&lt;a href="http://foundation.zurb.com/"&gt;Foundation&lt;/a&gt;&lt;/li&gt;  
+&lt;/ul&gt;  
+
+&lt;p&gt;&lt;/p&gt;&lt;/li&gt; &lt;br&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Wow, that really was a lot. This week really pushed us forward in terms of intelligently structuring our projects and planning ahead. This seems like a great lead in to more work with JS frameworks like &lt;a href="http://localhost:2368/week-three-recap/backbonejs.org"&gt;Backone&lt;/a&gt; and &lt;a href="http://localhost:2368/week-three-recap/angularjs.org"&gt;Angular&lt;/a&gt;. Especially because of their focus on the separation of concerns and the planning required in that.&lt;/p&gt;
+
+&lt;h5&gt;Takeaways&lt;/h5&gt;  
+
+&lt;p&gt;I really only have two takeaways this week. &lt;br&gt;
+&lt;strong&gt;-&lt;em&gt;Don't research too much&lt;/em&gt; :&lt;/strong&gt; In planning my project, I spent a day reading and researching Backbone JS. Ultimately, I only used bits and pieces of what I learned. The wasted time also cost me a lot of valuable time. Don't do what I did. Follow the process. Do some planning/wireframing/diagramming, then proceed to building your project.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;-&lt;em&gt;So much to learn, so little time&lt;/em&gt; :&lt;/strong&gt; I love learning about all of these useful technologies, but I like to feel confident using a tool before I move on to learn something else. But the more time I spend coding, the more I am becoming used to being uncomfortable.&lt;/p&gt;
+
+&lt;h5&gt;Irritation of the Week&lt;/h5&gt;  
+
+&lt;p&gt;There was no big bad irritation this week. I am becoming acclimated to the struggle with new tools.&lt;/p&gt;
+
+&lt;h5&gt;Resources:&lt;/h5&gt;  
+
+&lt;ul&gt;  
+&lt;li&gt;&lt;p&gt;&lt;a href="http://addyosmani.github.io/backbone-fundamentals/"&gt;Backbone Fundamentals&lt;/a&gt; - an excellent intro to backbone with example projects to work through&lt;/p&gt;&lt;/li&gt;  
+&lt;li&gt;&lt;p&gt;&lt;a href="https://gionkunz.github.io/chartist-js/"&gt;Chartist JS&lt;/a&gt; - a javascript library for building stylish and responsive charts. This wasn't part of the class work, but I thought it would be cool to restructure an earlier project's statistics on the Titanic Tragedy with data visualization. &lt;/p&gt;&lt;/li&gt;  
+&lt;/ul&gt;
+
+&lt;h5&gt;Fascinating Tech News:&lt;/h5&gt;  
+
+&lt;ul&gt;  
+&lt;li&gt;&lt;p&gt;&lt;a href="http://www.engadget.com/2015/06/08/swift-open-source/"&gt;Swift Open Source&lt;/a&gt; - The title says it all. Apple is releasing its iOS language as an open source development project.&lt;/p&gt;&lt;/li&gt;  
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Dream Destination of the Week&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;When I outlined this recap, I didn't have any specific place in mind. I simply wrote "somewhere warm and beautiful". In light of that mindset, I am letting google do the choosing this week. And the choice is...&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://localhost:2368/week-three-recap/" title=""&gt;&lt;img src="http://upload.wikimedia.org/wikipedia/commons/0/01/View_of_Northern_Saipan.JPG" width="640" height="428" alt=""&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;the Pacific island of Saipan.&lt;/p&gt;
+
+&lt;p&gt;Enjoy the trip!! I will be coding away. At least until I finish my program. Maybe a brief trip before the job search will be possible.&lt;/p&gt;</content:encoded></item><item><title>On project expectations</title><description>&lt;p&gt;One of the biggest things that attracted me to &lt;a href="http://academy.smashingboxes.com/"&gt;TIY Powered by Smashing Boxes&lt;/a&gt; was the potential to create an extensive portfolio. The program is structured with nine weeks of lecture and a three week final project. Each lecture week has a large project on the weekend. So, there are&lt;/p&gt;</description><link>http://localhost:2368/elegance-vs-functionality/</link><guid isPermaLink="false">9d043ece-78f5-4896-a01d-30f7983cb41b</guid><dc:creator>Mark Harper</dc:creator><pubDate>Wed, 03 Jun 2015 03:58:02 GMT</pubDate><content:encoded>&lt;p&gt;One of the biggest things that attracted me to &lt;a href="http://academy.smashingboxes.com/"&gt;TIY Powered by Smashing Boxes&lt;/a&gt; was the potential to create an extensive portfolio. The program is structured with nine weeks of lecture and a three week final project. Each lecture week has a large project on the weekend. So, there are many opportunities to build out your portfolio. But with all of those opportunities comes an important question, what should you expect from your projects? Here is a short list of my opinions on the matter:&lt;/p&gt;
+
+&lt;ul&gt;
+
+&lt;li&gt;  
+&lt;strong&gt;&lt;em&gt;Elegance vs. Function -&lt;/em&gt;&lt;/strong&gt;  Does your code have to be perfectly organized or have every function in the nightmare mode of your project? In short, it depends. You don't want to have every function in nightmare mode with code that no one can read or understand. On the other side, you don't want to focus so much on writing organized code that you only finish the simplest of functions. You have to find a balance. Additionally, this program is a process. Your portfolio should reflect that. You want to show that you are finishing more of the assignments by the end of the program and becoming more skilled in the way you use code to solve problems.  
+&lt;/li&gt;  
+&lt;p&gt;&lt;/p&gt;  
+&lt;li&gt;  
+&lt;strong&gt;&lt;em&gt;It's a portfolio. Make it look impressive! -&lt;/em&gt;&lt;/strong&gt; This mostly applies to my fellow front end students. You are expected to be exceptional with HTML/CSS and have a solid grasp on design principles. I don't mean to imply that your portfolio has to include a bunch of responsive sliders or animations. But your work must demonstrate a certain level of competence at creating a palatable, functional site.  
+&lt;/li&gt;  
+&lt;p&gt;&lt;/p&gt;  
+&lt;li&gt;  
+&lt;strong&gt;&lt;em&gt;Comparing yourself to others -&lt;/em&gt;&lt;/strong&gt; Don't do it! Stop it! No matter what I say, you will compare yourself to your peers. It is human nature. If you feel like your portfolio is the &lt;a href="http://i.dailymail.co.uk/i/pix/2014/06/16/article-2659123-1ED12AEC00000578-707_634x411.jpg"&gt;money pit&lt;/a&gt; to your friend's &lt;a href="https://bighornforge.files.wordpress.com/2010/01/biltmore.jpeg"&gt;Biltmore estate&lt;/a&gt;, then remember that the program is a process. I know I keep saying it, but it really is. Employers really value a willingness and ability to learn in junior developers, or so I'm told. If you can show that you went from 0-90 while Mr. Biltmore went from 60-120, then you may be a more attractive candidate. That's an oversimplification, but you get the idea.  
+&lt;/li&gt;
+
+&lt;/ul&gt;
+
+&lt;p&gt;I hope this has been helpful. If you want to chat about the article, code schools or &lt;a href="https://www.youtube.com/watch?v=AhkuD54VdJ0"&gt;cats with lightsabers&lt;/a&gt;, you can find me on Twitter &lt;a href="https://twitter.com/IAmMarkHarper"&gt;@IAmMarkHarper&lt;/a&gt; or send me an &lt;a href="mailto:markharper20@gmail.com"&gt;email&lt;/a&gt;.&lt;/p&gt;</content:encoded></item><item><title>Week Four Recap</title><description>&lt;p&gt;Here's a quick rundown of what I did this past week. We covered Underscore.js templating and routing with Backbone.js. Also, our instructor, Chris, was kind enough to do a bit of object oriented review. This week was a little different for our homework. Instead of daily assignments, we&lt;/p&gt;</description><link>http://localhost:2368/week-four-recap/</link><guid isPermaLink="false">953a2835-a921-4879-9dff-4a5d2120e800</guid><dc:creator>Mark Harper</dc:creator><pubDate>Wed, 03 Jun 2015 01:38:49 GMT</pubDate><content:encoded>&lt;p&gt;Here's a quick rundown of what I did this past week. We covered Underscore.js templating and routing with Backbone.js. Also, our instructor, Chris, was kind enough to do a bit of object oriented review. This week was a little different for our homework. Instead of daily assignments, we had a week long assignment, an appointments application, to work on. I was partnered with Brendan, who was a huge help setting up our templates and routing. As an aside, check out his awesome &lt;a href="https://github.com/wholetthedogsout"&gt;Github name&lt;/a&gt;. Even though we spent 36 hours on one bug, we came out with a solid product. All together it was a very productive week. I am looking forward to going more in depth on backbone.js soon, because routing has not sunk in quite yet.&lt;/p&gt;
+
+&lt;h5&gt;Takeaways&lt;/h5&gt;  
+
+&lt;p&gt;&lt;strong&gt;-&lt;em&gt; Persistence is key&lt;/em&gt; :&lt;/strong&gt; Bugs are really irritating. Especially when you are first learning a topic. When we struggled for 36-hours to fix a simple template issue, it didn't look like we would ever finish the app. But with a ton of debugging (console.log line by line) and help from our instructor, it came together. Just when you're about to lose your patience, go for a walk and tell yourself "every problem can be solved". With time and enough stubbornness, you will figure it out.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;-&lt;em&gt;Learn from the experience of others&lt;/em&gt; :&lt;/strong&gt; We have had several guest speakers at this point in the program. While their technical advice has been on point, I have to say I am finding their professional anecdotes to be more illuminating. There are hundreds of ways, if not more, for me to learn front end development. However, the resources for learning about the team workflows and hiring practices of tech agencies are much more difficult to come by. When your guest speakers come in, make sure you learn the material that they teach, but don't check out during the Q&amp;amp;A section. You will learn just as much from their career experiences as you will from their technical knowledge.&lt;/p&gt;
+
+&lt;h5&gt;Irritation of the Week&lt;/h5&gt;  
+
+&lt;p&gt;This is a really easy section this week. That 36-hour bug drove me nuts.&lt;/p&gt;
+
+&lt;h5&gt;Resources:&lt;/h5&gt;  
+
+&lt;ul&gt;  
+&lt;li&gt;&lt;p&gt;&lt;a href="http://code.tutsplus.com/tutorials/getting-cozy-with-underscorejs--net-24581"&gt;Getting Cozy with Underscore Js&lt;/a&gt; - A great underscore tutorial.&lt;/p&gt;&lt;/li&gt;  
+&lt;li&gt;&lt;p&gt;&lt;a href="https://www.clipular.com"&gt;Clipular&lt;/a&gt; - An excellent way to capture screenshots in your browser.&lt;/p&gt;&lt;/li&gt;  
+&lt;/ul&gt;
+
+&lt;h5&gt;Fascinating Tech News:&lt;/h5&gt;  
+
+&lt;ul&gt;  
+&lt;li&gt;&lt;p&gt;&lt;a href="http://www.wired.com/2015/04/silk-road-1/"&gt;Silk Road&lt;/a&gt; - This article covers the rise and fall of silk road. It's a ridiculous story and I'm sure there will be a blockbuster film about it.&lt;/p&gt;&lt;/li&gt;  
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Dream Destination of the Week&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Ecuador&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/31867959@N04/7613943940" title="Ecuadorian Amazon rain forest, looking toward the Andes by Dallas Krentzel, on Flickr"&gt;&lt;img src="https://c2.staticflickr.com/8/7268/7613943940_e6b287351e_z.jpg" width="640" height="428" alt="Ecuadorian Amazon rain forest, looking toward the Andes"&gt;&lt;/a&gt; &lt;br&gt;
+&lt;small&gt;This photo was provided by &lt;a href="https://www.flickr.com/photos/31867959@N04/"&gt;Dallas Krentzel&lt;/a&gt; at Flickr.com.&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;In keeping with the South American trend from last week, I chose the Ecuadorian Amazon. My roommate has been taking trips to his Uncle's school in Ecuador for years. I've heard so many great stories about Ecuador that I've got to go at this point.&lt;/p&gt;</content:encoded></item><item><title>Week Three Recap</title><description>&lt;p&gt;This week marked the introduction of Jquery, a javascript library packed with power. Jquery offers concise code that makes working with the DOM more intuitive. Using Jquery to approach our homework was a refreshing experience. It helped simplify my solutions and avoid a lot of frustration. That being said, my&lt;/p&gt;</description><link>http://localhost:2368/week-3-recap/</link><guid isPermaLink="false">f332fbf9-7cc9-402d-8ec8-52160c8ab8c2</guid><dc:creator>Mark Harper</dc:creator><pubDate>Thu, 28 May 2015 04:14:36 GMT</pubDate><content:encoded>&lt;p&gt;This week marked the introduction of Jquery, a javascript library packed with power. Jquery offers concise code that makes working with the DOM more intuitive. Using Jquery to approach our homework was a refreshing experience. It helped simplify my solutions and avoid a lot of frustration. That being said, my week was not without its challenges. Learning the Jquery syntax and understanding its functions caused me a lot of headaches. I will get to that a bit later. &lt;/p&gt;
+
+&lt;h5&gt;Takeaways&lt;/h5&gt;  
+
+&lt;p&gt;&lt;strong&gt;-&lt;em&gt;Github is your portfolio&lt;/em&gt; :&lt;/strong&gt; If you are in code school, then you are probably hosting some of your portfolio on Github pages. When it is time for you to get a job, your potential employer will see these projects on your Github account. Chances are that each company you contact will peruse your entire Github account. So, it's best to follow a set of best practices to organize your code. You will find resources for Javascript and CSS guidelines listed below. Outside of your code, add a Readme document to each repository that you have on Github. Explain your project in a clear and concise manner. As it stands now, I need to take my own advice. My Github account does not include Readme documents in every repo or perfectly organized code. However, I will be adding Readme documents this weekend, and I suggest that you do the same.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;-&lt;em&gt;A brief note on working in groups remotely&lt;/em&gt; :&lt;/strong&gt; This week was our first experience with pair programming. I had a great collaborator, and I learned a ton about styling thanks to his CSS skills. We worked on a very challenging user signup application, and we got the job done. Feel free to take look at our &lt;a href="http://localhost:2368/week-3-recap/markharper.github.io/user-management"&gt;project&lt;/a&gt; if you like. Despite being proud of the finished product, the process felt disjointed once I left town. I have to take the blame for this, because I didn't take the initiative to talk about our work schedules. If you are going to work in a group remotely, be direct in your communication, do your best to work at the same time, and set a time each day to check in on each other's progress.&lt;/p&gt;
+
+&lt;h5&gt;Irritation of the Week&lt;/h5&gt;  
+
+&lt;p&gt;The first day that Jquery was introduced I struggled to complete more than one of several widgets assigned in the homework. At this point in the program I expect the learning process to be challenging. But this was one frustrating day. I think it was so bothersome because I was very comfortable with vanilla Javascript. Then, here comes Jquery, supposedly very helpful and it was a pain on day one. Obviously, I have since come to realize the awesomeness of Jquery. &lt;/p&gt;
+
+&lt;h5&gt;Resources:&lt;/h5&gt;  
+
+&lt;p&gt;&lt;a href="https://github.com/airbnb/javascript"&gt;Javascript Guidelines by Airbnb&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://cssguidelin.es/"&gt;CSS Guidelines&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Dream Destination of the Week&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Buenos Aires, Argentina&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/nestorgalina/6349614121" title="Buenos Aires by Nestor Galina, on Flickr"&gt;&lt;img src="https://c1.staticflickr.com/7/6099/6349614121_c31aedcb8e_z.jpg" width="640" height="360" alt="Buenos Aires"&gt;&lt;/a&gt; &lt;br&gt;
+&lt;small&gt;This photo was provided by &lt;a href="https://www.flickr.com/photos/nestorgalina/6349614121"&gt;Nestor Galina&lt;/a&gt; at Flickr.com.&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;I have always wanted to go on a long trip through South America. Buenos Aires would surely be one of my stops on that trip.&lt;/p&gt;</content:encoded></item><item><title>Week Two Recap</title><description>&lt;p&gt;This week we started javascript. Once our instructor introduced the &lt;a href="http://www.w3schools.com/js/js_htmldom.asp"&gt;Document Object Model&lt;/a&gt; (DOM), it really hit hard. When you approach javascript without dealing with DOM, the process is similar to playing a challenging puzzle: simplify the problem into its smallest elements, build out the functions and bring it all&lt;/p&gt;</description><link>http://localhost:2368/week-two-recap-2/</link><guid isPermaLink="false">cefb5316-6357-404d-8c31-e21f9d1f415b</guid><dc:creator>Mark Harper</dc:creator><pubDate>Wed, 20 May 2015 04:24:16 GMT</pubDate><content:encoded>&lt;p&gt;This week we started javascript. Once our instructor introduced the &lt;a href="http://www.w3schools.com/js/js_htmldom.asp"&gt;Document Object Model&lt;/a&gt; (DOM), it really hit hard. When you approach javascript without dealing with DOM, the process is similar to playing a challenging puzzle: simplify the problem into its smallest elements, build out the functions and bring it all together to an elegant solution. Adding in the user interaction brings on error messages that don't have clear causes or solutions. Going forward, I'm sure that the way to approach these issues will become apparent.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Takeaways&lt;/strong&gt; &lt;br&gt;
+Willpower, yours will be tested. Mine certainly was in week two. The wear and tear of long hours and less than optimal sleep took its toll. I broke on a few occasions, taking some quality time for a Game of Thrones episode and a trip on Stumbleupon.com. I feel as though I did not learn as effectively this week. So, here is a short list to stay on point in coding bootcamp:&lt;/p&gt;
+
+&lt;p&gt;-Sleep: Plan on a time to go to bed and stick to the schedule. This sound like a childish thing to do, but it makes staying productive much easier. This is not an easy task. I am overdue on sleep by about two hours as I type right now.&lt;/p&gt;
+
+&lt;p&gt;-Deadlines: You may have only one day to finish your homework, but this doesn't mean that you must jump right into the thick of things. Take time to plan out your algorithm and MVP. Then, take more time to think through your solutions and set deadlines for the day. This will help you produce a quality product.&lt;/p&gt;
+
+&lt;p&gt;-R &amp;amp; R &amp;amp; Fun: As much as I have emphasized efficiently using one's time to learn coding, a big part of this program is learning in a group. Much of the value provided by a bootcamp comes in the form of your classmates. They are another resource for knowledge, an opportunity to meet new people (aka that networking thing people talk about, but most of all your classmates are a support system. Some days you will breeze through material and help others solve problems without tearing their hair out. Other days, the situation will be reversed. So, get to know your classmates. Leave the classroom for a bit. Go for a walk, a coffee, a drink. Do something with your fellow bootcampers. &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Irritation of the Week&lt;/strong&gt; &lt;br&gt;
+You probably guessed this one. The document object model was something I struggled with for a couple days. With the help of our instructor, my classmates and MDN, I made it out the other side.&lt;/p&gt;
+
+&lt;p&gt;Resources: &lt;br&gt;
+&lt;a href="https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model"&gt;Mozilla Developer Network&lt;/a&gt; - This was really the only one I used, other than &lt;a&gt;stackoverflow.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Dream Destination of the Week&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;-Juneau, Alaska&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Juneau%2C_Alaska.jpg/800px-Juneau%2C_Alaska.jpg"&gt;&lt;/p&gt;
+
+&lt;p&gt;This selection is not your typical post-college trip, but it is definitely worthy of a mention. I spent over a month in Juneau, Alaska during a high school summer. The raw nature of Alaska never ceased to amaze me. I would love return one day for more exploring. There is no shortage of outdoor activities, whether you're interested in fishing, skiing, hiking, biking, climbing, etc. You name it, they've got it. To add one last thing, fresh Alaskan salmon is absolutely delicious.&lt;/p&gt;</content:encoded></item><item><title>Week One Recap</title><description>&lt;p&gt;With one week down, I have completed three projects and learned more about programming than I ever have studying on my own. It's a strange feeling to get through week one. I am still feeling that optimism and excitement from getting started. At the same time, the pressure is mounting.&lt;/p&gt;</description><link>http://localhost:2368/week-one-recap/</link><guid isPermaLink="false">b8f7943f-a651-43cc-84bc-035c4d240452</guid><dc:creator>Mark Harper</dc:creator><pubDate>Tue, 12 May 2015 03:03:21 GMT</pubDate><content:encoded>&lt;p&gt;With one week down, I have completed three projects and learned more about programming than I ever have studying on my own. It's a strange feeling to get through week one. I am still feeling that optimism and excitement from getting started. At the same time, the pressure is mounting. The material is definitely being crammed into our brains at lightning speed. Before I ramble too much, here is a quick breakdown of the week:&lt;/p&gt;
+
+&lt;h6&gt;General Schedule&lt;/h6&gt;  
+
+&lt;p&gt;&lt;em&gt;Monday --------&gt; Thursday&lt;/em&gt; &lt;br&gt;
+Lecture: 9AM-12PM - some days we finish lecture early &lt;br&gt;
+Lab: 12PM - till the work is done&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Friday Free For All&lt;/em&gt; &lt;br&gt;
+No lecture on these days. We have something called a Huddle @10AM. Each class is split into groups of five to come together with five students from the other courses. This is a great opportunity to understand the material that the Python and Rails courses are covering. This time is also used for more general conversations about succeeding in the program (personal goals, online presence, etc.).&lt;/p&gt;
+
+&lt;h6&gt;Takeaways&lt;/h6&gt;  
+
+&lt;p&gt;After completing three projects this week (two site redesigns and one memory game), I am starting to get a feel for the process. &lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt; Approach Conceptually: what does the client/instructor want on the site/who is this site made for?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Design &amp;amp; Wireframe: Get on &lt;a&gt;Dribbble.com&lt;/a&gt; for inspiration. Keep it simple and functional. Follow the suggestions in this &lt;a href="https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda"&gt;article&lt;/a&gt;, and it's hard to go terribly wrong.&lt;/p&gt;
+
+&lt;p&gt;Plan HTML document by labeling your wireframe.&lt;/p&gt;
+
+&lt;p&gt;Get to it and build your site.&lt;/p&gt;
+
+&lt;p&gt;So far this is my process. I'm sure it will change a lot by the end of the program.&lt;/p&gt;
+
+&lt;p&gt;Our associate instructor gave some valuable advice this week about keeping our minds open to career opportunities during the program. The more that I think about it, that mindset is a key part of excelling in this program. Every day is a little bit different. We have to change gears constantly and approach problems from new angles when we are stuck. You can't come into this program too uptight or you will snap quickly.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Irritation of the Week&lt;/strong&gt; &lt;br&gt;
+Fluid grids and animations. Our weekend project was a memory card game. We were asked to keep a consistent aspect ratio for all cards as the window size/shape changed. It required hours of research to get my head around the concepts and more time to implement what I learned.&lt;/p&gt;
+
+&lt;p&gt;Here are the resources that helped me do it: &lt;br&gt;
+&lt;a&gt;http://alistapart.com/article/fluidgrids&lt;/a&gt; &lt;br&gt;
+&lt;a&gt;http://www.smashingmagazine.com/2011/01/12/guidelines-for-responsive-web-design/&lt;/a&gt; &lt;br&gt;
+&lt;a&gt;http://alistapart.com/article/responsive-web-design&lt;/a&gt; &lt;br&gt;
+&lt;a&gt;http://unstoppablerobotninja.com/entry/fluid-images/&lt;/a&gt; &lt;br&gt;
+&lt;a&gt;https://css-tricks.com/centering-css-complete-guide/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;On the other hand, I was not able to get the cards to flip in my game. I am still working on that animation. I have a few guesses about the problems in my code, but fixing those issues are another story.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Dream Destination of the Week&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Twickenham, England&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Twickenham_Stadium_-_May_2012.jpg/800px-Twickenham_Stadium_-_May_2012.jpg"&gt;&lt;/p&gt;
+
+&lt;p&gt;I know that England is another obvious travel destination, but I have a suggestion most people would not offer. In high school, my rugby team took a trip to England for spring break to play a few exhibitions against English teams. While staying in Bracknell, England, we took a day trip to Twickenham Stadium. This stadium is home to the English national team. If you have the opportunity to see a rugby match, I highly recommend it. There is nothing quite like seeing a match live in a sold out stadium.&lt;/p&gt;</content:encoded></item><item><title>How I Prepared &amp; Goals Going Forward</title><description>&lt;p&gt;&lt;strong&gt;How I Prepared For Bootcamp&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;There are so many options when it comes to preparing for a coding bootcamp that it can be quite overwhelming. I know that is how I felt when I first decided to join &lt;a href="http://localhost:2368/first-impressions-and-goals-going-forward-2/academy.smashingboxes.com"&gt;The Iron Yard Powered by Smashing Boxes&lt;/a&gt;. As I searched online and&lt;/p&gt;</description><link>http://localhost:2368/first-impressions-and-goals-going-forward-2/</link><guid isPermaLink="false">674784c6-785d-47cd-bfbe-cc48eb2ab510</guid><dc:creator>Mark Harper</dc:creator><pubDate>Wed, 06 May 2015 02:43:08 GMT</pubDate><content:encoded>&lt;p&gt;&lt;strong&gt;How I Prepared For Bootcamp&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;There are so many options when it comes to preparing for a coding bootcamp that it can be quite overwhelming. I know that is how I felt when I first decided to join &lt;a href="http://localhost:2368/first-impressions-and-goals-going-forward-2/academy.smashingboxes.com"&gt;The Iron Yard Powered by Smashing Boxes&lt;/a&gt;. As I searched online and asked other people, more and more conflicting information kept piling up. So, what exactly should one do to prepare for a coding bootcamp? The short answer is that it depends on many factors. &lt;/p&gt;
+
+&lt;p&gt;About three months prior to my program start date, I met with a local executive at a mobile application development company to get his perspective on the effectiveness of bootcamps. My major takeaway was that I lacked enough experience with code to truly know if I could commit to such a program. So, he suggested spending 1-2 hours several days a week coding as a test run. He referred me to &lt;a href="http://localhost:2368/first-impressions-and-goals-going-forward-2/codeschool.com"&gt;Code School&lt;/a&gt;. From there I began working through the courses at a steady pace. (As you can probably guess, I really enjoyed coding. Combining that with a few other experiences, I decided to enroll at TIY.) To date, I have completed the following:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href="https://www.codeschool.com/courses/front-end-foundations"&gt;Front End Foundations&lt;/a&gt;  &lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.codeschool.com/courses/front-end-formations"&gt;Front End Formations&lt;/a&gt;  &lt;/li&gt;
+&lt;li&gt;&lt;a href="http://localhost:2368/first-impressions-and-goals-going-forward-2/JavaScript Road Trip Part 1"&gt;Javascript Road Trip Part I&lt;/a&gt;  &lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.codeschool.com/courses/javascript-road-trip-part-2"&gt;Javascript Road Trip Part II&lt;/a&gt;  &lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.codeschool.com/courses/javascript-road-trip-part-3"&gt;Javascript Road Trip Part III&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Shortly after finishing up these courses, my &lt;a href="https://github.com/tiy-durham-fe-cohort4/resources/blob/master/prework.md"&gt;Pre-Work&lt;/a&gt; from TIY came in. Around this time, I also discovered an excellent blog from a recent TIY Durham Front End Graduate (&lt;a href="http://jordanscodinglife.blogspot.com/?m=1"&gt;Jordan's Coding Life&lt;/a&gt;). He outlines a very extensive pre-work program for Front End Students. With these two resources in hand, I focused on my provided &lt;a href="https://github.com/tiy-durham-fe-cohort4/resources/blob/master/prework.md"&gt;Pre-Work&lt;/a&gt; first, and completed it. Then, I moved on to the few parts of Jordan's list that I could fit in (Treehouse Portfolio Tutorial, A command line article, and the FizzBuzz test). That sums up my pre-work experience.&lt;/p&gt;
+
+&lt;p&gt;Based upon my first two days, my guess would be that I am solidly prepared for the course. Had I been stronger in CSS, my first 2 days would have been less stressful. Not to mention, my first project would have been of a much higher quality. We have only dealt with HTML and CSS so far. My answer may change once we reach javascript. So, to anyone going into the Front End Course at &lt;a href="http://localhost:2368/first-impressions-and-goals-going-forward-2/academy.smashingboxes.com"&gt;The Iron Yard Powered by Smashing Boxes&lt;/a&gt;, I would suggest that you complete the pre-work provided by TIY early enough to deep dive into Jordan's suggestions. Had I been stronger in CSS, my first 2 days would have been less stressful. Not to mention, my first project would have been of a much higher quality. &lt;/p&gt;
+
+&lt;p&gt;I have one last suggestion for pre-work. Read as much as you can about the experiences that students have at TIY. You will learn a ton by reading about the obstacles faced and lessons learned by graduates. Here are a few blogs that I have found immensely useful:&lt;/p&gt;
+
+&lt;ul&gt;  
+&lt;li&gt;&lt;a href="http://jordanscodinglife.blogspot.com/?m=1"&gt;Jordan's Coding Life&lt;/a&gt;  
+&lt;/li&gt;  
+&lt;li&gt;&lt;a href="http://blog.atmartin.io/"&gt;Constant Growth&lt;/a&gt;&lt;/li&gt;  
+&lt;li&gt;&lt;a href="https://railsmama.wordpress.com/"&gt;Rail's Mama&lt;/a&gt;&lt;/li&gt;  
+&lt;/ul&gt;
+
+&lt;p&gt;This post has gone on longer than I expected, so I will be brief with my day-to-day goals:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Arrive no later than 8AM (that means in a chair coding at 8AM)  &lt;/li&gt;
+&lt;li&gt;Leave no later than 8PM (until final projects begin)  &lt;/li&gt;
+&lt;li&gt;Wake at 6AM daily/Exercise every day  &lt;/li&gt;
+&lt;li&gt;I will go to bed no later than 11PM  &lt;/li&gt;
+&lt;li&gt;Pair program or collaborate every day  &lt;/li&gt;
+&lt;li&gt;Post every project to Github pages/Filter high quality work to my portfolio site  &lt;/li&gt;
+&lt;li&gt;Update Github/My Portfolio Site with projects weekly  &lt;/li&gt;
+&lt;li&gt;Update LinkedIn weekly  &lt;/li&gt;
+&lt;li&gt;Post to this blog once a week&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;In three months we will see how it turns out.&lt;/p&gt;</content:encoded></item><item><title>Just Getting Started</title><description>&lt;p&gt;Tomorrow I take the plunge into the the Front End Engineering program at The Iron Yard powered by Smashing Boxes in Durham, NC. Even after speaking with former graduates, current instructors and reading countless articles online, I am still not sure what to expect. I am ready for a rigorous&lt;/p&gt;</description><link>http://localhost:2368/welcome-to-ghost/</link><guid isPermaLink="false">4bf2bc0c-b3fd-4c12-be22-e1df306502bc</guid><dc:creator>Mark Harper</dc:creator><pubDate>Mon, 04 May 2015 03:11:24 GMT</pubDate><content:encoded>&lt;p&gt;Tomorrow I take the plunge into the the Front End Engineering program at The Iron Yard powered by Smashing Boxes in Durham, NC. Even after speaking with former graduates, current instructors and reading countless articles online, I am still not sure what to expect. I am ready for a rigorous experience and expect there to be a lot of pressure from all the new material piling up. Nonetheless, I can't help but be excited about starting a new career path.&lt;/p&gt;
+
+&lt;p&gt;I do feel well prepared for the bootcamp. My prework program included a variety of sources. I completed my instructor's prework assignments in their entirety, but I completed some additional work as well. I will go into more prework detail in an upcoming post. Truth be told, I won't know if I am well prepared until the program is well under way.&lt;/p&gt;
+
+&lt;p&gt;Tonight, my cohort met with instructors, TAs, graduates and administrators from The Iron Yard. It was the first time that all of us were in the same space. For the most part none of us had met before. Aside from some wide eyed looks, the occasional awkward eye contact and some clunky introductions everyone fell into place smoothly. I was really impressed that by the end of the night I already felt comfortable within this group of vastly different people. Surprisingly, no one seemed on edge or up tight. Maybe it's just the calm before the storm, but one can hope, right?&lt;/p&gt;
+
+&lt;p&gt;Taking a bit from another TIY graduate (&lt;a href="http://jordanscodinglife.blogspot.com/"&gt;Lt. Liberty&lt;/a&gt;), each post will close with a bit of structure. Coding is full of roadblocks and lessons to be learned. On a completely unrelated note, traveling is one my favorite past times. So, each post will end with some absurdly frustrating code that I have dealt with recently and an amazing destination that I would to visit to calm myself. &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Github Pages&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Today I tried in vain to setup a portfolio site ahead of this program. Simply, to make building a portfolio a less stressful process as I go along. Oh, the irony. I have fiddled for hours with the command line, Github's website, and mac application to get my portfolio site hosted for free. Unfortunately, I do not have a live webpage yet. I do have a decent looking portfolio site on preview in Atom. With more time and a bit of patience, this is definitely a solvable problem.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Riomaggiore, Italy&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I was lucky enough to visit this beautiful seaside town on two occasions and would love to return once again. It is part of a series of towns connected by train and cliffside trails. One of the five towns has a long beach that extends the length of the town. Enjoying world class Italian cuisine on a balcony by the beach is highly recommended. In the meantime, it is time to rest. For tomorrow will be a day full of coding.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="https://c1.staticflickr.com/7/6133/6029063274_3772b559ed_b.jpg"&gt; &lt;/p&gt;</content:encoded></item></channel></rss>
