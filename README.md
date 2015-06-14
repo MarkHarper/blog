@@ -1,4 +1,4 @@
-This repository is for my personal blog. It can be found @ <a href="markharper.io/blog>markharper.io</a>
+This repository is for my personal blog. It can be found @ <a href="markharper.io/blog>markharper.io'>markharper.io/blog</a>
 
 Technoloiges Used
 <li>HTML & CSS</li>
