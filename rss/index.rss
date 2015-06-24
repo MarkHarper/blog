@@ -1,4 +1,43 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>Code School Survival</title><description>Thoughts, tips and my experience going through a programming bootcamp.</description><link>http://localhost:2368/</link><generator>Ghost 0.6</generator><lastBuildDate>Wed, 10 Jun 2015 02:49:28 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>Week Five Recap</title><description>&lt;p&gt;One more week down at TIY and our workflow has changed so much in only seven days. Here is a quick rundown of the tools we added to our arsenal this week:&lt;/p&gt;
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>Code School Survival</title><description>Thoughts, tips and my experience going through a programming bootcamp.</description><link>http://localhost:2368/</link><generator>Ghost 0.6</generator><lastBuildDate>Wed, 24 Jun 2015 03:04:52 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>The Week Six and Seven Recap</title><description>&lt;p&gt;It's been a long time since the last update. The work at The Iron Yard has been a bit crazy over the last two weeks. A group project with the Rails team during week six proved to be both challenging and time-consuming. Then, in week seven we took a bit&lt;/p&gt;</description><link>http://localhost:2368/week-six-recap/</link><guid isPermaLink="false">d7ed13ed-daa0-4152-941f-ebd5718e0752</guid><dc:creator>Mark Harper</dc:creator><pubDate>Wed, 24 Jun 2015 03:04:02 GMT</pubDate><content:encoded>&lt;p&gt;It's been a long time since the last update. The work at The Iron Yard has been a bit crazy over the last two weeks. A group project with the Rails team during week six proved to be both challenging and time-consuming. Then, in week seven we took a bit of a breather with review and an introduction to Backbone Js. Here is a short list of the topics we have covered in the past two weeks.&lt;/p&gt;
+
+&lt;ul&gt;  
+&lt;li&gt;&lt;a href="http://browserify.org/"&gt;Browserify&lt;/a&gt; - You will learn to love browserify, even if it confuses you the first time around. It helps you organize the dependencies of each file in your app.&lt;/li&gt;  
+&lt;li&gt;&lt;a href="http://susy.oddbird.net/"&gt;Susy Grid System&lt;/a&gt; - This is easily the best grid system that we have been exposed to in the program.&lt;/li&gt;  
+&lt;li&gt;&lt;a href="http://jasmine.github.io/2.0/introduction.html"&gt;Jasmine&lt;/a&gt; - I really want to use this javascript testing library to drive the development of future projects. Test driven development is a very different approach from the plan/guess and check method that I've been using.&lt;/li&gt;  
+&lt;li&gt;&lt;a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp"&gt;Regular Expressions&lt;/a&gt; - At long last, we learned Regex. These brief lines of gibberish make parsing strings so much easier.&lt;/li&gt;  
+&lt;li&gt;&lt;a href="http://parsleyjs.org/doc/index.html#psly-frontend-form-validation"&gt;Parsley Js&lt;/a&gt; - This is a validation library that is very handy. Although, it can be difficult to implement in browserify &amp; gulp.&lt;/li&gt;  
+&lt;li&gt;&lt;a href="http://guides.rubyonrails.org/getting_started.html"&gt;Ruby on Rails&lt;/a&gt; - A bit of a disclaimer: we clearly didn't learn all of Ruby on Rails, but we did learn how to work with Rails developers as Front End developers. It still amazes me the way that Rails magically builds the framework of an application.&lt;/li&gt;  
+&lt;li&gt;&lt;a href="http://localhost:2368/week-six-recap/"&gt;Pure CSS&lt;/a&gt; - This is a very easy to use css framework, with emphasis on 'very easy'. The aesthetic is very much like bootstrap, but it much smaller and easier to customize.&lt;/li&gt;  
+&lt;li&gt;&lt;a href="http://localhost:2368/week-six-recap/"&gt;Backbone Js&lt;/a&gt; - Our very first JS framework. At this point, I'm still a bit thrown by the way everything comes together in Backbone, but I'm catching on. One thing is clear. Backbone adds a ton of power to our development arsenal.&lt;/li&gt;  
+&lt;/ul&gt;
+
+&lt;h5&gt;Takeaways&lt;/h5&gt;
+
+&lt;p&gt;&lt;strong&gt;-Integrating with Rails is half the battle&lt;em&gt;&lt;/em&gt; :&lt;/strong&gt; Getting styles and html running in Rails truly was a 2 day battle. Here is a quick rundown of the primary issue. Rails uses ERB files to produce HTML and pull in data from models. The Rails class had not covered adding classes to generated elements yet. So, we had to work together to add classes for our CSS to target. &lt;br&gt;
+&lt;strong&gt;-Commit early and commit often&lt;em&gt;&lt;/em&gt; :&lt;/strong&gt; Another problem that we encountered on the Rails project was merging. My Front End teammate and I styled the project in a separate branch. This required us to change the ERB templates. As our Rails teammate added new features on the backend, our branches gained more and more conflicting changes. With one day left on the project, we had to spend a few hours coming up with a working master branch. On your future projects, I implore you to commit early and commit often. Use Git as it was designed.&lt;/p&gt;
+
+&lt;h5&gt;Resources:&lt;/h5&gt;  
+
+&lt;ul&gt;  
+&lt;li&gt;&lt;p&gt;&lt;a href="https://github.com/iteles/Javascript-the-Good-Parts-notes"&gt;An abridged version of Javascript: The Good Parts&lt;/a&gt; - I've heard a great deal about Javascript: The Good Parts. This overview on Github seemed like a valuable find.&lt;/p&gt;&lt;/li&gt;  
+&lt;li&gt;&lt;p&gt;&lt;a href="https://github.com/getify/You-Dont-Know-JS"&gt;You Don't Know Js&lt;/a&gt; - Here is great refresher series on vanilla Javascript.&lt;/p&gt;&lt;/li&gt;  
+&lt;li&gt;&lt;a href="http://localhost:2368/week-six-recap/"&gt;Trello&lt;/a&gt; - As I was adding some final stylings to the Rails project, I created a todo list on Trello. It is a great way to keep track of your project, especially if you tend to jump from feature to feature the way that I do.&lt;/li&gt;  
+&lt;/ul&gt;
+
+&lt;h5&gt;Fascinating Tech News:&lt;/h5&gt;  
+
+&lt;ul&gt;  
+&lt;li&gt;&lt;p&gt;&lt;a href="https://medium.com/@jowitaziobro/7-future-web-design-trends-fba93eba6355"&gt;7 future web design trends&lt;/a&gt; - This article covers several of the design concepts that I have picked up on during this course. &lt;/p&gt;&lt;/li&gt;  
+&lt;li&gt;&lt;p&gt;&lt;a href="hhttp://venturebeat.com/2015/06/19/apple-should-just-buy-duckduckgo/"&gt;Apple should just buy DuckDuckGo&lt;/a&gt; - If Apple is as serious about privacy as they claimed to be at the most recent WWDC, then this would be an exciting way to prove it.&lt;/p&gt;&lt;/li&gt;  
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Dream Destination of the Week&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://localhost:2368/week-six-recap/" title=""&gt;&lt;img src="http://upload.wikimedia.org/wikipedia/commons/8/81/Havana_-_Cuba_-_2894.jpg" width="640" height="428" alt=""&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Havana, Cuba&lt;/p&gt;
+
+&lt;p&gt;As some of you may know, the US has just reopened direct travel to Cuba. So, this beautiful city was an easy choice this week. If the food in Havana is as good the Cuban food I've enjoyed in the States (as I'm sure it is), then I will definitely be heading there in the near future.&lt;/p&gt;</content:encoded></item><item><title>Week Five Recap</title><description>&lt;p&gt;One more week down at TIY and our workflow has changed so much in only seven days. Here is a quick rundown of the tools we added to our arsenal this week:&lt;/p&gt;
 
 &lt;ul&gt;  
 &lt;li&gt;&lt;a href="http://backbonejs.org/"&gt;Backbone Js&lt;/a&gt;So far we have mostly used the routing function&lt;/li&gt;  
