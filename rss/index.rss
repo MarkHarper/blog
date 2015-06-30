@@ -1,4 +1,57 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>Code School Survival</title><description>Thoughts, tips and my experience going through a programming bootcamp.</description><link>http://localhost:2368/</link><generator>Ghost 0.6</generator><lastBuildDate>Wed, 24 Jun 2015 03:04:52 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>The Week Six and Seven Recap</title><description>&lt;p&gt;It's been a long time since the last update. The work at The Iron Yard has been a bit crazy over the last two weeks. A group project with the Rails team during week six proved to be both challenging and time-consuming. Then, in week seven we took a bit&lt;/p&gt;</description><link>http://localhost:2368/week-six-recap/</link><guid isPermaLink="false">d7ed13ed-daa0-4152-941f-ebd5718e0752</guid><dc:creator>Mark Harper</dc:creator><pubDate>Wed, 24 Jun 2015 03:04:02 GMT</pubDate><content:encoded>&lt;p&gt;It's been a long time since the last update. The work at The Iron Yard has been a bit crazy over the last two weeks. A group project with the Rails team during week six proved to be both challenging and time-consuming. Then, in week seven we took a bit of a breather with review and an introduction to Backbone Js. Here is a short list of the topics we have covered in the past two weeks.&lt;/p&gt;
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>Code School Survival</title><description>Thoughts, tips and my experience going through a programming bootcamp.</description><link>http://localhost:2368/</link><generator>Ghost 0.6</generator><lastBuildDate>Tue, 30 Jun 2015 02:56:34 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>Week Eight Recap</title><description>&lt;p&gt;Here's a list of the topics covered this week:&lt;/p&gt;
+
+&lt;ul&gt;  
+&lt;li&gt;&lt;a href="http://localhost:2368/week-eight-recap/backbonejs.org"&gt;Backbone JS&lt;/a&gt; - We explored the MV structure that Backbone helps developers create in a bit more depth.&lt;/li&gt;  
+&lt;li&gt;&lt;a href="http://localhost:2368/week-eight-recap/nodejs.org"&gt;Node JS&lt;/a&gt; - Our instructor gave us a crash course, and we jumped right into our first node &lt;a href="https://github.com/MarkHarper/reshare"&gt;project&lt;/a&gt;.&lt;/li&gt;  
+&lt;li&gt;&lt;a href="http://localhost:2368/week-eight-recap/c3js.org"&gt;C3 JS&lt;/a&gt; - An&lt;/li&gt;&lt;/ul&gt;</description><link>http://localhost:2368/week-eight-recap/</link><guid isPermaLink="false">d4130d81-69b7-4291-8055-fd7bb65e5d4e</guid><dc:creator>Mark Harper</dc:creator><pubDate>Tue, 30 Jun 2015 02:56:16 GMT</pubDate><content:encoded>&lt;p&gt;Here's a list of the topics covered this week:&lt;/p&gt;
+
+&lt;ul&gt;  
+&lt;li&gt;&lt;a href="http://localhost:2368/week-eight-recap/backbonejs.org"&gt;Backbone JS&lt;/a&gt; - We explored the MV structure that Backbone helps developers create in a bit more depth.&lt;/li&gt;  
+&lt;li&gt;&lt;a href="http://localhost:2368/week-eight-recap/nodejs.org"&gt;Node JS&lt;/a&gt; - Our instructor gave us a crash course, and we jumped right into our first node &lt;a href="https://github.com/MarkHarper/reshare"&gt;project&lt;/a&gt;.&lt;/li&gt;  
+&lt;li&gt;&lt;a href="http://localhost:2368/week-eight-recap/c3js.org"&gt;C3 JS&lt;/a&gt; - An awesome charting library built on top of &lt;a href="http://d3js.org/"&gt;D3 JS&lt;/a&gt; that we used to visualize our data.&lt;/li&gt;  
+&lt;/ul&gt;
+
+&lt;p&gt;At first glance this week seems a lot lighter than weeks six and seven. Don't let the short list fool you. Node and Backbone have steep learning curves. I certainly have not learned their intricacies in one week. &lt;/p&gt;
+
+&lt;p&gt;I think our class is starting to show the wear and tear of eight long weeks of heavy lectures. Everyone seems less bright eyed and more tired at the sight of each new tool. I can definitely understand the feeling. The new material is very interesting and I really want to learn it all. But as we move closer to the end of the program, I find myself wanting to really solidify my skills in the essential learning categories as laid out by our instructor. That being said, I am exploring each new topic as we go through the program. I have done a pretty good job not going back to old topics even when that's what I want to do.&lt;/p&gt;
+
+&lt;h6&gt;An Aside on Essential Skills&lt;/h6&gt;
+
+&lt;p&gt;What does essential learning mean? The topics that are deemed essential by our instructor are the ones the every junior developer must know to be employable. Here's an overview:&lt;/p&gt;
+
+&lt;ul&gt;  
+&lt;li&gt;HTML &amp; CSS&lt;/li&gt;  
+&lt;li&gt;Vanilla JS&lt;/li&gt;  
+&lt;li&gt;Jquery&lt;/li&gt;  
+&lt;li&gt;AJAX&lt;/li&gt;  
+&lt;li&gt;A CSS Framework&lt;/li&gt;  
+&lt;li&gt;A JS Framework&lt;/li&gt;  
+&lt;/ul&gt;
+
+&lt;p&gt;This is by know means an exhaustive list. These are the topics that a junior developer must be strong in to succeed in the job search.  Keep in mind that this is a the absolute minimum according to our instructor.  &lt;/p&gt;
+
+&lt;h5&gt;Resources:&lt;/h5&gt;  
+
+&lt;ul&gt;  
+&lt;li&gt;&lt;p&gt;&lt;a href="http://localhost:2368/week-eight-recap/dailyjs.com"&gt;Daily JS&lt;/a&gt; - A cool blog with a new JS tutorial or news article every day.&lt;/p&gt;&lt;/li&gt;  
+&lt;/ul&gt;
+
+&lt;h5&gt;Cool Tech News:&lt;/h5&gt;  
+
+&lt;ul&gt;  
+&lt;li&gt;&lt;p&gt;&lt;a href="http://techcrunch.com/2015/05/05/elance-odesk-rebrands-as-upwork-debuts-slack-like-chat-platform/"&gt;Elance-oDesk Rebrands As Upwork, Debuts Slack-Like Chat Platform&lt;/a&gt; - I just came across this article. As I have done some freelance work on Elance, it is interesting to see the company continue to grow and change.&lt;/p&gt;&lt;/li&gt;  
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Dream Destination of the Week&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://localhost:2368/week-eight-recap/" title=""&gt;&lt;img src="https://c2.staticflickr.com/8/7361/9469105316_e53df13855_b.jpg" width="640" height="428" alt="Banos Swing"&gt;&lt;/a&gt; &lt;br&gt;
+&lt;small&gt;This photo was provided by &lt;a href="https://www.flickr.com/photos/wurglitsch/9469105316/in/photolist-fqKD7u-51m6Cb-fqKDqm-njAJrG-dJsfTe-5LhAyp-x2y7F-9VCXws-ehSGh5-jHsSw3-7Z67Mw-4rATs8-kDaM5G-d4LhCC-a92JJv-6vD5mP-msGK9c-d4Lhwo-8TM3S6-77wfoX-bwcjEK-3NfPha-v4eMNM-mhKRZn-4onRHw-uno6k-dSQvuL-4GvpKr-dQRsVJ-dQRt1b-dQRt6j-dQRt4h-9uLr45-9uHrva-9uLs8Q-yyD7U-KEtb8-KEsXk-bwctMD-bwcCdF-bwcF9X-AjLAP-7nchLF-jMTBnS-tMSdxh-t8r9pS-t8A2kn-t8BGuH-u36Rcs-tMYBjZ"&gt;Rinaldo Wurglitsch&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;We return to Ecuador this week for a place that I absolutely must visit.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Banos, Ecuador&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;It has a swing that any kid would go bonkers about. Naturally, I'm dying to go.&lt;/p&gt;</content:encoded></item><item><title>The Week Six and Seven Recap</title><description>&lt;p&gt;It's been a long time since the last update. The work at The Iron Yard has been a bit crazy over the last two weeks. A group project with the Rails team during week six proved to be both challenging and time-consuming. Then, in week seven we took a bit&lt;/p&gt;</description><link>http://localhost:2368/week-six-recap/</link><guid isPermaLink="false">d7ed13ed-daa0-4152-941f-ebd5718e0752</guid><dc:creator>Mark Harper</dc:creator><pubDate>Wed, 24 Jun 2015 03:04:02 GMT</pubDate><content:encoded>&lt;p&gt;It's been a long time since the last update. The work at The Iron Yard has been a bit crazy over the last two weeks. A group project with the Rails team during week six proved to be both challenging and time-consuming. Then, in week seven we took a bit of a breather with review and an introduction to Backbone Js. Here is a short list of the topics we have covered in the past two weeks.&lt;/p&gt;
 
 &lt;ul&gt;  
 &lt;li&gt;&lt;a href="http://browserify.org/"&gt;Browserify&lt;/a&gt; - You will learn to love browserify, even if it confuses you the first time around. It helps you organize the dependencies of each file in your app.&lt;/li&gt;  
