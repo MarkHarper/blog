@@ -1,4 +1,18 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>Code School Survival</title><description>Thoughts, tips and my experience going through a programming bootcamp.</description><link>http://localhost:2368/</link><generator>Ghost 0.6</generator><lastBuildDate>Tue, 30 Jun 2015 02:56:34 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>Week Eight Recap</title><description>&lt;p&gt;Here's a list of the topics covered this week:&lt;/p&gt;
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>Code School Survival</title><description>Thoughts, tips and my experience going through a programming bootcamp.</description><link>http://localhost:2368/</link><generator>Ghost 0.6</generator><lastBuildDate>Mon, 27 Jul 2015 17:57:24 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>Catching Up: Part One</title><description>&lt;p&gt;Wow, it's been awhile. &lt;/p&gt;
+
+&lt;p&gt;So, what have I been up to? In short, finishing up with the program at &lt;a href="http://academy.smashingboxes.com/" title="The Iron Yard"&gt;TIY&lt;/a&gt;. My last post covered week eight of the program. Since then, the last week of lectures ended and we spent three weeks working our tails off to make some killer&lt;/p&gt;</description><link>http://localhost:2368/catching-up-part-one/</link><guid isPermaLink="false">e8f85b8e-b9b5-4d6c-8925-6eb274c1083c</guid><dc:creator>Mark Harper</dc:creator><pubDate>Mon, 27 Jul 2015 17:57:08 GMT</pubDate><content:encoded>&lt;p&gt;Wow, it's been awhile. &lt;/p&gt;
+
+&lt;p&gt;So, what have I been up to? In short, finishing up with the program at &lt;a href="http://academy.smashingboxes.com/" title="The Iron Yard"&gt;TIY&lt;/a&gt;. My last post covered week eight of the program. Since then, the last week of lectures ended and we spent three weeks working our tails off to make some killer final projects. &lt;/p&gt;
+
+&lt;p&gt;Here's a brief recap of the last lecture week (that was week 9 by the way)&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Similarities and Differences between Python and Javascript&lt;/li&gt;
+&lt;li&gt;A python-front end collaboration for Mon &amp;amp; Tues:  &lt;a href="https://github.com/tiyd-python-2015-05/stat-tracker"&gt;Activities&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;One final overview of design conventions. Man oh man! It was fun to tear down some out of date websites and talk about ways to improve them. Our instructor wanted to make sure we avoided some serious pitfalls going into final projects.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;After our last lectures, we jumped right into pitching our final projects. As I did not have a pitch to make, I had the pleasure of choosing one project out of so many great ideas. Where did I land? That's for next time.&lt;/p&gt;</content:encoded></item><item><title>Week Eight Recap</title><description>&lt;p&gt;Here's a list of the topics covered this week:&lt;/p&gt;
 
 &lt;ul&gt;  
 &lt;li&gt;&lt;a href="http://localhost:2368/week-eight-recap/backbonejs.org"&gt;Backbone JS&lt;/a&gt; - We explored the MV structure that Backbone helps developers create in a bit more depth.&lt;/li&gt;  
